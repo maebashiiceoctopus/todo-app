@@ -10,6 +10,9 @@ Esta es una aplicación web sencilla para llevar una lista de tareas pendientes 
 -   Eliminar todas las tareas completadas
 -   Mostrar el número de tareas pendientes y completadas
 
+![Captura](https://user-images.githubusercontent.com/56660673/236646057-edee7634-9a1c-4702-a31a-6d7d21ac0293.PNG)
+
+
 ## Instalación
 
 1.  Clonar este repositorio o descargar el archivo zip.
