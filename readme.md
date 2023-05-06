@@ -1,6 +1,7 @@
 # Aplicación de lista de tareas
 
-Esta es una aplicación web sencilla para llevar una lista de tareas pendientes y completadas. Utiliza el almacenamiento local del navegador para guardar las tareas.
+Esta es una aplicación web sencilla para llevar una lista de tareas pendientes y completadas. 
+Utiliza el almacenamiento local del navegador para guardar las tareas (localStorage) .
 
 ## Funcionalidades
 
@@ -20,7 +21,7 @@ Esta es una aplicación web sencilla para llevar una lista de tareas pendientes 
 4. La aplicación estará disponible en http://localhost:3333
 
 
-![Captura](https://user-images.githubusercontent.com/56660673/236646105-9b49d876-c54c-47e7-8a94-80d40683de99.PNG)
+![Captura](https://user-images.githubusercontent.com/56660673/236646157-5193f328-7770-42af-ba33-9c247c8f261f.PNG)
 
 
 
