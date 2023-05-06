@@ -1,0 +1,41 @@
+.container {
+  margin-top: 30px;
+  background-color: hsl(235, 24%, 19%);
+
+
+}
+
+
+.counters {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  margin-top: 26px;
+  align-items: center;
+
+  .counter-button {
+    background-color: #EA4C89;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 5px ;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+
+}

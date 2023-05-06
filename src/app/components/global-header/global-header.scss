@@ -1,0 +1,15 @@
+.global-header {
+  background: url('../../../assets/img/bg-desktop-dark.jpg') no-repeat;
+  color: white;
+  background-size: cover;
+  width: 100vw;
+  height: 40vh;
+  transition: all 0.3s;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: 18px;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+
+}
