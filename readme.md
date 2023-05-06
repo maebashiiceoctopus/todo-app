@@ -10,7 +10,6 @@ Esta es una aplicación web sencilla para llevar una lista de tareas pendientes 
 -   Eliminar todas las tareas completadas
 -   Mostrar el número de tareas pendientes y completadas
 
-![Captura](https://user-images.githubusercontent.com/56660673/236646057-edee7634-9a1c-4702-a31a-6d7d21ac0293.PNG)
 
 
 ## Instalación
@@ -19,6 +18,9 @@ Esta es una aplicación web sencilla para llevar una lista de tareas pendientes 
 2.  Instalar las dependencias con `npm install`
 3.  Iniciar la aplicación con `npm run start`
 4. La aplicación estará disponible en http://localhost:3333
+
+
+![Captura](https://user-images.githubusercontent.com/56660673/236646105-9b49d876-c54c-47e7-8a94-80d40683de99.PNG)
 
 
 
